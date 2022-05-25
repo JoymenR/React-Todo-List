@@ -1,2 +1,2 @@
 # React-Todo-List
-## todo list file in : src/components/TodoList.js
+### Todo list file in: src/components/TodoList.js
